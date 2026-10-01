@@ -1,0 +1,21 @@
+# dataset
+content/
+
+# archive
+*.zip
+
+# trained model
+*.pth
+
+# Jupyter
+.ipynb_checkpoints/
+
+# log
+log.txt
+
+.idea/
+
+*.csv
+
+__pycache__/
+*.pyc
