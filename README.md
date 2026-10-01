@@ -9,11 +9,11 @@
 
 | 名称      | ファイル名  | 備考     |
 | ---------- | ---- | ------ |
-|ディスカッションの抽出|[search.ipynb]()|[抽出ファイル]()|
-|データの確認|[analysis.ipynb]()||
-|学習|[main.ipynb]()||
-|アンサンブル学習|[ensemble.ipynb]()||
-|予測と提出|[submission.ipynb]()||
+|ディスカッションの抽出|[search.ipynb](https://github.com/kenkenkengo0421/kaggle/blob/main/notebook/search.ipynb)|[discussions.txt](https://github.com/kenkenkengo0421/kaggle/blob/main/discussion/discussions.txt)|
+|データの確認|[analysis.ipynb](https://github.com/kenkenkengo0421/kaggle/blob/main/notebook/analysis.ipynb)||
+|学習|[main.ipynb](https://github.com/kenkenkengo0421/kaggle/blob/main/notebook/main.ipynb)||
+|アンサンブル学習|[ensemble.ipynb](https://github.com/kenkenkengo0421/kaggle/blob/main/notebook/ensemble.ipynb)||
+|予測と提出|[submission.ipynb](https://github.com/kenkenkengo0421/kaggle/blob/main/notebook/submission.ipynb)||
 
 # 評価指標
 
