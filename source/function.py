@@ -66,8 +66,9 @@ def compe_discussion_load(slug, max_pages):
         )
         print(f"取得完了: {topic.title}")
         time.sleep(0.5)
-    
-    output = Path("discussion/discussions.txt")
+
+    root_dir = Path(__file__).resolve().parent.parent
+    output = root_dir / "discussion" / "discussions.txt"    
     output.parent.mkdir(parents=True, exist_ok=True)
     output.write_text("\n\n".join(sections), encoding="utf-8")
     print(f"\n保存完了: {output}（合計 {len(sections)} トピック）")
