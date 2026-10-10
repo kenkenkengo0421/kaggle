@@ -14,6 +14,7 @@
 |学習|[main.ipynb](https://github.com/kenkenkengo0421/kaggle/blob/main/notebook/main.ipynb)||
 |アンサンブル学習|[ensemble.ipynb](https://github.com/kenkenkengo0421/kaggle/blob/main/notebook/ensemble.ipynb)||
 |予測と提出|[submission.ipynb](https://github.com/kenkenkengo0421/kaggle/blob/main/notebook/submission.ipynb)||
+|その他、メモ|[memo](https://github.com/kenkenkengo0421/kaggle/blob/main/memo)||
 
 # 評価指標
 
@@ -47,8 +48,6 @@ python3 -m venv .venv
 source .venv/bin/activate
 ```
 
-```
-```
 #pip freeze > requirements.txt
 ```
 pip install -r requirements.txt
